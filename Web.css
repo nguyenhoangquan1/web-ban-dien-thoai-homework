@@ -1,0 +1,168 @@
+.header{
+    background-color:white;
+    height: 150px;
+}
+.iconDT{
+    float: right;
+    margin-right: 1150px;
+    margin-top: -120px;
+}
+.dropdown1{
+    float: right;
+    margin-right: 1130px;
+    margin-top: -40px;
+}
+.icontainghe{
+    float: right;
+    margin-right: 1000px;
+    margin-top: -120px;
+}
+.dropdown2{
+    float: right;
+    margin-right: 985px;
+    margin-top: -40px;
+}
+.search{
+    float: right;
+    margin-right: 620px;
+    margin-top: -100px;
+}
+.search .form-control{
+    width: 330px;
+    border-radius: 12px;
+}
+.iconsearch{
+    float: right;
+    margin-right: 640px;
+    margin-top: -95px;
+}
+.iconshop{
+    float: right;
+    margin-right: 520px;
+    margin-top: -110px;
+}
+.btnshop{
+    float: right;
+    margin-right: 500px;
+    margin-top: -40px;
+}
+.btndk{
+    float: right;
+    margin-right: 270px;
+    margin-top: -100px;
+}
+.btnds{
+    float: right;
+    margin-right: 30px;
+    margin-top: -100px;
+}
+.slogan{
+    border: 1px solid yellow;
+    height: 80px;
+    background-color: yellow;
+    text-align: center;
+}
+.main{
+    width: 1080px;
+    height: 550px;
+    
+    margin-left: 220px;
+}
+.main .p1{
+    margin-left: -220px;
+    margin-top: -550px;
+}
+.main .p2{
+    float: right;
+    margin-top: -550px;
+    margin-right: -220px;
+}
+.slogan2{
+    height: 80px;
+    background-color:yellow;
+    text-align: center;
+}
+.submain{
+    width: 100%;
+}
+.submain .hi2{
+    float: right;
+    margin-top: -756px;
+    margin-right: 950px;
+}
+.submain .hi3{
+    float: right;
+    margin-top: -756px;
+    margin-right: 632px;
+}
+.submain .hi4{
+    float: right;
+    margin-top: -756px;
+    margin-right: 314px;
+}
+.submain .hi5{
+    float: right;
+    margin-top: -756px;
+}
+.submain2 .hi6 {
+    margin-top: 50px;
+}
+.submain2 .hi7{
+    float: right;
+    margin-top: -756px;
+    margin-right: 950px;
+}
+.submain2 .hi8{
+    float: right;
+    margin-top: -756px;
+    margin-right: 632px;
+}
+.submain2 .hi9{
+    float: right;
+    margin-top: -756px;
+    margin-right: 314px;
+}
+.submain2 .hi10{
+    float: right;
+    margin-top: -756px;
+}
+.footer{
+    width: 100%;
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
+.support{
+    margin-left: 730px;
+}
+.support2{
+    float:left;
+    margin-top: -200px;
+    margin-left: 50px;
+}
+.support3{
+    float:left;
+    margin-top: -200px;
+    margin-left: 400px;
+}
+.copyright{
+    float:right;
+    margin-top: -200px;
+    margin-right: 50px;
+}
+.iconCT{
+    float:right;
+}
+.iconPT{
+    float:right;
+}
+.tinnhiem{
+    float:right;
+}
+.subfooter{
+    width:100%;
+    border: 1px solid black;
+    background-color: rgb(234, 223, 223);
+}
+
+
+
